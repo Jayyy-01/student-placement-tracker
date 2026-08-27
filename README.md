@@ -63,7 +63,7 @@ student-placement-tracker/
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/<your-username>/student-placement-tracker.git
+   git clone [https://github.com/<your-username>/student-placement-tracker.git](https://github.com/Jayyy-01/student-placement-tracker.git)
 ```
 
 2. **Navigate into the project folder**
@@ -99,7 +99,7 @@ Enter your choice:
 Enter details in the format: `StudentID,Name,Branch,Score`
 
 ```
-Enter student details: K101,aarav sharma,CSE,85
+Enter student details: K101,Jayasree P,Python,85
 Student added successfully.
 ```
 
