@@ -63,7 +63,7 @@ student-placement-tracker/
 
 1. **Clone the repository**
 ```bash
-   git clone [https://github.com/<Jayyy-01>/student-placement-tracker.git](https://github.com/Jayyy-01/student-placement-tracker.git)
+   git clone [https://github.com/<Jayyy-01>/student-placement-tracker.git]
 ```
 
 2. **Navigate into the project folder**
